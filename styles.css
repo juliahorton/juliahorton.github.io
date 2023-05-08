@@ -28,6 +28,7 @@ body {
 }
 .default-styles {
   font-family: 'Open Sans', sans-serif;
+  color: black;
 }
 img {
   width: 300px;
